@@ -13,10 +13,16 @@ This project uses Deep Learning techniques to identify coffee leaf diseases from
 - VGG16
 
 ## Features
-- Image classification
-- Transfer learning using VGG16,CNN
-- Data preprocessing and augmentation
-- Disease prediction from leaf images
+- Coffee leaf disease image classification
+- Deep learning model using CNN and VGG16
+- Image preprocessing and data augmentation
+- Transfer learning for improved prediction accuracy
+- Detection of different coffee leaf diseases
+- Model training and performance evaluation
+- Prediction using leaf image inputs
+
+## Dataset
+Dataset used: Coffee leaf disease dataset from Kaggle.
 
 ## Author
 Uggina Manisha
